@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_ip_error">Inserisci un valido indirizzo IP</string>
+    <string name="send_button">Invia a PKSM</string>
+    <string name="files_sent_toast">File inviati correttamente!</string>
+    <string name="choose_files_button">Scegli i file PK6/PK7</string>
+</resources>

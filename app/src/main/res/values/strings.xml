@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Serve PKX</string>
+    <string name="ip_3ds_hint" translatable="false">3DS IP</string>
+    <string name="no_ip_error">Insert a valid IP address</string>
+    <string name="files_sent_toast">Files sent successfully!</string>
+    <string name="send_button">Send to PKSM</string>
+    <string name="choose_files_button">Choose PK6/PK7 files</string>
+</resources>
