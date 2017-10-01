@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/res/drawable/
+src/test/
+!/app/app-release.apk
