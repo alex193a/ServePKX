@@ -5,4 +5,11 @@
     <string name="files_sent_toast">Files sent successfully!</string>
     <string name="send_button">Send to PKSM</string>
     <string name="choose_files_button">Choose PK6/PK7 files</string>
+    <string name="load_default_files_button">Load from default folder</string>
+    <string name="attention_dialog_title">Attention</string>
+    <string name="yes_upper">YES</string>
+    <string name="no_upper">NO</string>
+    <string name="permissions_error">You need to allow access to the storage permission!</string>
+    <string name="permissions_error_2">You need to allow access to the storage permission in the app settings.</string>
+    <string name="confirm_send">Do you want to send %1$d Pokémon to PKSM?</string>
 </resources>

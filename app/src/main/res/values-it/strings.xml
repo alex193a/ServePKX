@@ -4,4 +4,11 @@
     <string name="send_button">Invia a PKSM</string>
     <string name="files_sent_toast">File inviati correttamente!</string>
     <string name="choose_files_button">Scegli i file PK6/PK7</string>
+    <string name="load_default_files_button">Carica dalla cartella di default</string>
+    <string name="attention_dialog_title">Attenzione</string>
+    <string name="no_upper">NO</string>
+    <string name="yes_upper">SÌ</string>
+    <string name="permissions_error">Devi consentire l\'accesso alla memoria interna!</string>
+    <string name="permissions_error_2">Devi consentire l\'accesso alla memoria interna dalle impostazioni nell\'applicazione.</string>
+    <string name="confirm_send">Vuoi inviare %1$d Pokémon a PKSM?</string>
 </resources>
